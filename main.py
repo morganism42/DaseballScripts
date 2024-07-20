@@ -8,4 +8,3 @@ import allteamwinloss
 # StatOverTime.get_stat(season=4)
 
 # allteamwinloss.getwinloss(includePost=True)
-h
